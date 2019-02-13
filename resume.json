@@ -1,0 +1,37 @@
+{
+  "profile":{
+    "name":"Priya",
+    "image":"images/priya.png",
+    "comname":"QISCET",
+    "number":"8989675587",
+    "mail":"priya98@gmail.com",
+    "career":"to have my career in a progressive organisation that gives a scope to apply my knowledge and technical skills to work dynamically for the growth of organisation."
+  },
+"Education":[
+  {
+    "degree":"B.Tech",
+    "college":"QIS",
+    "branch":"CSE",
+    "marks":"85%",
+    "endDate":"06/06/2020"
+  },
+  {
+    "degree":"Inter",
+    "college":"Sri chaitanya",
+    "branch":"M.P.C",
+    "marks":"88%",
+    "endDate":"03/04/2016"
+  },
+  {
+    "degree":"SSC",
+    "college":"Qis High School",
+    "branch":"English",
+    "marks":"93%",
+    "endDate":"08/03/2014"
+  }
+],
+"Skills":{
+  "OS":"Windows7, Windows8.1, Windows8.1, Xp,",
+  "ps":"HTML, JAVASCRIPT, PHP, C, JAVA, ANDROID"
+}
+}
